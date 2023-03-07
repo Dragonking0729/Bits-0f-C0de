@@ -2,9 +2,7 @@
 
 ## Writing own blogs made easier for everyone!
 
-<h2 align="center">
-  <a href="https://soumyajitblogs.vercel.app/" target="_blank">soumyajitblogs.vercel.app</a>
-</h2>
+
 
 <div align="center">
   <img alt="Demo" src="./Extra/demo.gif" />
@@ -29,7 +27,7 @@
 
 ## Built With
 
-My personal blogpage <a href="http://blogs.soumya-jit.tech/" target="_blank">blogs.soumyajit.tech</a> which features some of my developer blog posts and experiences.<br/>
+
 
 This project was built using these technologies.
 
@@ -75,4 +73,3 @@ To write your own blogs create a markdown file in `_content` folder with the spe
 
 Give a ⭐ if you like this website!
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
